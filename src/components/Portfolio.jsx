@@ -39,7 +39,7 @@ function Portfolio() {
                   <a href="" className='mx-3'>
                   
                   </a>
-                  <a href="https://americanaresturant.vercel.app" target='_blank'>
+                  <a href="https://americana-resturant.vercel.app" target='_blank'>
                     <IoLogoVercel/>
                   </a>
                 </div>
@@ -74,7 +74,7 @@ function Portfolio() {
                   <a href="" target='_blank' className='mx-3'>
                   
                   </a>
-                  <a href="https://todolist-eight-pi.vercel.app" target='_blank'>
+                  <a href="https://todo-list-lake-xi.vercel.app" target='_blank'>
                     <IoLogoVercel  />
                   </a>
                 </div>
@@ -111,7 +111,7 @@ function Portfolio() {
                   <a href="/" className='mx-3'>
                   
                   </a>
-                  <a href="https://cake-store.vercel.app" target='_blank'>
+                  <a href="https://cakestore-phi.vercel.app" target='_blank'>
                     <IoLogoVercel  />
                   </a>
                 </div>
